@@ -1,3 +1,49 @@
+# Alura Cypress
+
+[React: escreva testes end to end com Cypress](https://cursos.alura.com.br/course/react-escreva-testes-end-to-end-cypress)
+
+## Requisitos
+
+- NodeJS
+- Git
+- VSCode
+
+## Instalação
+
+```
+git clone https://github.com/debora-rebelatto/alura-cypress
+npm install
+npm run dev
+```
+
+## API
+```
+git clone https://github.com/alura-cursos/api-bytebank
+npm install
+npm start-api
+```
+
+## Resumo aulas
+- Instalação do Cypress
+
+```
+npm install cypress --save-dev
+```
+
+```
+npx cypress open
+```
+
+- Pirâmide de testes
+
+- Spec
+São os arquivos de teste do Cypress. São arquivos de teste que ficam dentro da pasta cypress/integration.
+
+- ESLint
+```
+npm i eslint-plugin-cypress
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
